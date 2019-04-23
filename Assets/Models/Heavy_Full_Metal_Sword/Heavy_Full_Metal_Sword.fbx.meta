@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: d243a6e7c3a92d04b9dcedd1851b0c61
+timeCreated: 1492719091
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Heavy_Full_Metal_Sword_Mech
+    100004: Heavy_Full_Metal_Sword_Rig
+    100006: HFMS01_low
+    100008: HFMS02_low
+    100010: HFMS03_low
+    100012: HFMS04_low
+    100014: HFMS05_low
+    100016: HFMS06_low
+    100018: HFMS07_low
+    100020: HFMS08_low
+    100022: HFMS09_low
+    100024: HFMS10_low
+    100026: HFMS11_low
+    100028: HFMS12_low
+    100030: HFMS13_low
+    100032: HFMS14_low
+    100034: HFMS15_low
+    100036: HFMS16_low
+    100038: HFMS17_low
+    100040: HFMS18_low
+    100042: HFMS19_low
+    100044: HFMS20_low
+    100046: HFMS21_low
+    100048: HFMS22_low
+    100050: HFMS23_low
+    100052: HFMS24_low
+    100054: HFMS25_low
+    100056: HFMS26_low
+    100058: HFMS27_low
+    100060: HFMS28_low
+    100062: HFMS29_low
+    100064: HFMS30_low
+    100066: HFMS31_low
+    100068: HFMS32_low
+    100070: HFMS33_low
+    100072: HFMS34_low
+    100074: HFMS35_low
+    100076: HFMS36_low
+    400000: //RootNode
+    400002: Heavy_Full_Metal_Sword_Mech
+    400004: Heavy_Full_Metal_Sword_Rig
+    400006: HFMS01_low
+    400008: HFMS02_low
+    400010: HFMS03_low
+    400012: HFMS04_low
+    400014: HFMS05_low
+    400016: HFMS06_low
+    400018: HFMS07_low
+    400020: HFMS08_low
+    400022: HFMS09_low
+    400024: HFMS10_low
+    400026: HFMS11_low
+    400028: HFMS12_low
+    400030: HFMS13_low
+    400032: HFMS14_low
+    400034: HFMS15_low
+    400036: HFMS16_low
+    400038: HFMS17_low
+    400040: HFMS18_low
+    400042: HFMS19_low
+    400044: HFMS20_low
+    400046: HFMS21_low
+    400048: HFMS22_low
+    400050: HFMS23_low
+    400052: HFMS24_low
+    400054: HFMS25_low
+    400056: HFMS26_low
+    400058: HFMS27_low
+    400060: HFMS28_low
+    400062: HFMS29_low
+    400064: HFMS30_low
+    400066: HFMS31_low
+    400068: HFMS32_low
+    400070: HFMS33_low
+    400072: HFMS34_low
+    400074: HFMS35_low
+    400076: HFMS36_low
+    4300000: HFMS04_low
+    4300002: HFMS09_low
+    4300004: HFMS01_low
+    4300006: HFMS06_low
+    4300008: HFMS16_low
+    4300010: HFMS18_low
+    4300012: HFMS14_low
+    4300014: HFMS17_low
+    4300016: HFMS08_low
+    4300018: HFMS20_low
+    4300020: HFMS15_low
+    4300022: HFMS13_low
+    4300024: HFMS21_low
+    4300026: HFMS12_low
+    4300028: HFMS22_low
+    4300030: HFMS23_low
+    4300032: HFMS24_low
+    4300034: HFMS25_low
+    4300036: HFMS02_low
+    4300038: HFMS05_low
+    4300040: HFMS07_low
+    4300042: HFMS10_low
+    4300044: HFMS11_low
+    4300046: HFMS27_low
+    4300048: HFMS30_low
+    4300050: HFMS35_low
+    4300052: HFMS31_low
+    4300054: HFMS33_low
+    4300056: HFMS36_low
+    4300058: HFMS34_low
+    4300060: HFMS32_low
+    4300062: HFMS26_low
+    4300064: HFMS28_low
+    4300066: HFMS29_low
+    4300068: HFMS19_low
+    4300070: HFMS03_low
+    9500000: //RootNode
+    13700000: HFMS01_low
+    13700002: HFMS02_low
+    13700004: HFMS03_low
+    13700006: HFMS04_low
+    13700008: HFMS05_low
+    13700010: HFMS06_low
+    13700012: HFMS07_low
+    13700014: HFMS08_low
+    13700016: HFMS09_low
+    13700018: HFMS10_low
+    13700020: HFMS11_low
+    13700022: HFMS12_low
+    13700024: HFMS13_low
+    13700026: HFMS14_low
+    13700028: HFMS15_low
+    13700030: HFMS16_low
+    13700032: HFMS17_low
+    13700034: HFMS18_low
+    13700036: HFMS19_low
+    13700038: HFMS20_low
+    13700040: HFMS21_low
+    13700042: HFMS22_low
+    13700044: HFMS23_low
+    13700046: HFMS24_low
+    13700048: HFMS25_low
+    13700050: HFMS26_low
+    13700052: HFMS27_low
+    13700054: HFMS28_low
+    13700056: HFMS29_low
+    13700058: HFMS30_low
+    13700060: HFMS31_low
+    13700062: HFMS32_low
+    13700064: HFMS33_low
+    13700066: HFMS34_low
+    13700068: HFMS35_low
+    13700070: HFMS36_low
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

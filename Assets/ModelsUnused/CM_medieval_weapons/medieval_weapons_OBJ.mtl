@@ -1,0 +1,52 @@
+newmtl blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd leather_hilts_Base_Color.png
+bump leather_hilts_Height.png -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_haft_Base_Color.png
+bump wood_haft_Height.png -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gold_matte_Base_Color.png
+bump gold_matte_Height.png -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd silver_matte_Base_Color.png
+bump silver_matte_Height.png -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd silver_shiny_Base_Color.png
+bump silver_shiny_Height.png -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn6SG
+illum 4
+Kd 0.67 0.67 0.67
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50

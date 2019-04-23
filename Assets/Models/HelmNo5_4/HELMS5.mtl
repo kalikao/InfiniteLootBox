@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Helm5
+Ns 86.274510
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.739758 0.105178
+Ks 1.000000 0.929413 0.815687
+Ke 1.000000 0.739758 0.105178
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd ID.png

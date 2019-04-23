@@ -1,0 +1,19 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 26.11.2013 22:57:57
+
+newmtl 02___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\MUDBOX OBJ\Axe\diff2_OCC.tga
+	map_Kd D:\MUDBOX OBJ\Axe\diff.jpg
+	map_Ks D:\MUDBOX OBJ\Axe\diff2_SPEC.tga
+	map_bump D:\MUDBOX OBJ\Axe\diff2_NRM.tga
+	bump D:\MUDBOX OBJ\Axe\diff2_NRM.tga
