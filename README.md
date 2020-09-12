@@ -20,6 +20,6 @@ Demonstration: https://www.youtube.com/watch?v=iJHpb2MkVpk&feature=youtu.be.
 - LootObjectsInactive is a convenience folder to put unused loot prefabs into.
 - To make a screenshot you can use "Thumbnail.scene". Read "ScreenshotCamera.cs" for further instructions.
 
-## Version
+## Unity Version
 
 If you have issues running the project, please try with Unity version 2018.3.4.
