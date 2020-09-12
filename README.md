@@ -19,3 +19,7 @@ Demonstration: https://www.youtube.com/watch?v=iJHpb2MkVpk&feature=youtu.be.
     - Put a 512x512 inventory icon with the same name as the prefab in the Assets/Resources/InventoryIcons folder and set the texture type to Sprite in Import Settings.
 - LootObjectsInactive is a convenience folder to put unused loot prefabs into.
 - To make a screenshot you can use "Thumbnail.scene". Read "ScreenshotCamera.cs" for further instructions.
+
+## Version
+
+If you have issues running the project, please try with Unity version 2018.3.4.
